@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar for Hello World example
+ */
+
+grammar hello;
+
+public <skynet> = sky net;
+public <askwho> = who are you;
